@@ -1,0 +1,8 @@
+name = "book-dex"
+filename = "book-dex-resourcepack.zip"
+side = "client"
+
+[download]
+url = "https://github.com/cobblemon-conquest/resourcepack-hisui-dex/releases/latest/download/book-dex-resourcepack.zip"
+hash-format = "sha256"
+hash = "17fd20359ce89fbf86f5f0d2756224a19a266bb8cff6566f15a131bf45a35719"
