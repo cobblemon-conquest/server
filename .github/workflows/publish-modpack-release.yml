@@ -21,7 +21,7 @@ jobs:
       - name: Set up Packwiz
         run: |
           curl -L https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip -o packwiz.zip
-          unzip packwiz.zip -d packwiz
+          unzip packwiz.zip
           chmod +x packwiz/packwiz
 
       - name: Export modpack
