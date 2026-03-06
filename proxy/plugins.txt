@@ -1,0 +1,1 @@
+https://github.com/kyngs/LibreLogin/releases/download/0.24.0/LibreLogin.jar

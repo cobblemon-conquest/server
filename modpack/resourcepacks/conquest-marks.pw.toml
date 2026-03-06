@@ -1,0 +1,8 @@
+name = "conquest-marks"
+filename = "cobblemon-conquest_marks-datapack.zip"
+side = "client"
+
+[download]
+url = "https://github.com/cobblemon-conquest/datapack-marks/releases/latest/download/cobblemon-conquest_marks-datapack.zip"
+hash-format = "sha256"
+hash = "3fe7813542f825a0c47e3d294601c95a3e1c3880ba304b09e5dbfb99cf2ef494"

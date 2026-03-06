@@ -1,0 +1,13 @@
+name = "Cobblemon RIze Tweaks"
+filename = "cobblemonRIzetweaks-1.2.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ON4VDdCA/versions/YxsbA4Hz/cobblemonRIzetweaks-1.2.3.jar"
+hash-format = "sha512"
+hash = "f9d469bc373a60cc7b24e310ddaaa562321cc808b93039e5a4051bf25f06fb66207de9ce69a58a1337ec8c2795cc3a9e86ce207abfbc710ec7fa5dfad530feeb"
+
+[update]
+[update.modrinth]
+mod-id = "ON4VDdCA"
+version = "YxsbA4Hz"
