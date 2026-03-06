@@ -28,18 +28,18 @@ jobs:
           mv packwiz /usr/local/bin/
           rm packwiz.zip
 
-      - name: Export modpack
-        working-directory: modpack
-        run: |
-          packwiz mr export
-          packwiz curseforge export
-
       - name: Read version from pack.toml
         id: version
         working-directory: modpack
         run: |
           VERSION=$(grep -E '^version\s*=' pack.toml | sed -E 's/version\s*=\s*"([^"]+)"/\1/')
           echo "version=$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Export modpack
+        working-directory: modpack
+        run: |
+          packwiz mr export && mv *.mrpack cobblemon-conquest_${{ steps.version.outputs.version }}_modrinth.mrpack
+          packwiz curseforge export && mv *.zip cobblemon-conquest_${{ steps.version.outputs.version }}_curseforge.zip
 
       - name: Get generated mrpack
         id: mrpack
