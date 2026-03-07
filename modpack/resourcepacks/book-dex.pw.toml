@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://github.com/cobblemon-conquest/resourcepack-hisui-dex/releases/latest/download/book-dex-resourcepack.zip"
 hash-format = "sha256"
-hash = "17fd20359ce89fbf86f5f0d2756224a19a266bb8cff6566f15a131bf45a35719"
+hash = "3e2aa55ee9ab81194e919dc13cb3bc41beabfdcaa7bc96915d774e2fd873a356"
