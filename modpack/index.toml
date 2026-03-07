@@ -14,11 +14,15 @@ hash = "088a2ac548f22adfb7141c909f692c28c366a381e314373f612fb9144c2262d1"
 
 [[files]]
 file = "config/kits/Bienvenida.nbt"
-hash = "ec7c04bf0aa3de1a0b095034eaf8f2e4a4937c8f658cebcc78caded45032e43e"
+hash = "54b153c6dc33c2ba1f3b9650ada7088d772ab16e3fa6eb1846290b4aff0b978e"
 
 [[files]]
 file = "config/luckperms/luckperms.conf"
 hash = "dbda616bf6b1b4f4165c19827032fb0c42ecebb9c13e6cd9d34351450a9c2c87"
+
+[[files]]
+file = "config/rctmod-server.toml"
+hash = "d39b2c7cdf7d8f5a7ec1444d3ecd8d1849e916cc01b10f62d1d7032e29ca546e"
 
 [[files]]
 file = "config/spawn_notification.json"
