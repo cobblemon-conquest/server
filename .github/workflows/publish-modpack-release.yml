@@ -6,6 +6,10 @@ on:
       - main
     paths:
       - 'modpack/**'
+  
+  pull_request:
+    paths:
+      - 'modpack/**'
 
 permissions:
   contents: write
@@ -47,6 +51,7 @@ jobs:
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
+        if: github.ref == 'refs/heads/main'
         with:
           tag_name: ${{ steps.version.outputs.version }}
           name: ${{ steps.version.outputs.version }}
