@@ -10,6 +10,7 @@ on:
   pull_request:
     paths:
       - 'modpack/**'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -30,17 +31,18 @@ jobs:
           mv packwiz /usr/local/bin/
           rm packwiz.zip
 
-      - name: Export modpack
-        working-directory: modpack
-        run: |
-          packwiz mr export
-
       - name: Read version from pack.toml
         id: version
         working-directory: modpack
         run: |
           VERSION=$(grep -E '^version\s*=' pack.toml | sed -E 's/version\s*=\s*"([^"]+)"/\1/')
           echo "version=$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Export modpack
+        working-directory: modpack
+        run: |
+          packwiz mr export && mv *.mrpack cobblemon-conquest_${{ steps.version.outputs.version }}_modrinth.mrpack
+          packwiz curseforge export && mv *.zip cobblemon-conquest_${{ steps.version.outputs.version }}_curseforge.zip
 
       - name: Get generated mrpack
         id: mrpack
@@ -49,11 +51,20 @@ jobs:
           FILE=$(ls *.mrpack | head -n 1)
           echo "file=$FILE" >> $GITHUB_OUTPUT
 
+      - name: Get generated CurseForge release
+        id: curseforge
+        working-directory: modpack
+        run: |
+          FILE=$(ls *.zip | head -n 1)
+          echo "file=$FILE" >> $GITHUB_OUTPUT
+
       - name: Create Release
         uses: softprops/action-gh-release@v1
         if: github.ref == 'refs/heads/main'
         with:
           tag_name: ${{ steps.version.outputs.version }}
           name: ${{ steps.version.outputs.version }}
-          files: modpack/${{ steps.mrpack.outputs.file }}
+          files: |
+            modpack/${{ steps.mrpack.outputs.file }}
+            modpack/${{ steps.curseforge.outputs.file }}
           generate_release_notes: true
