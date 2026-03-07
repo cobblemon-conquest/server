@@ -558,12 +558,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/book-dex.pw.toml"
-hash = "c30316fd6cd969803132b7f6f62ac15c730e385118fc6cf87847b812b6051efa"
+hash = "73817469e16cd59c7a5390926ff52ac2b4e2f4025341df4188ffde1e32b204e6"
 metafile = true
 
 [[files]]
 file = "resourcepacks/conquest-marks.pw.toml"
-hash = "d0ef4c40343fa4d7987dd81c23e3b070a3503dd90ed4347febf742ac65134e57"
+hash = "a118d37d77c1bac0766fe8e95675a3d94eeb0b2746300ecce8e809228d46e401"
 metafile = true
 
 [[files]]
@@ -590,5 +590,5 @@ metafile = true
 
 [[files]]
 file = "world/datapacks/conquest-marks.pw.toml"
-hash = "3e856b1089981910be62c778577e296ad0e05ab167a4af0f4ec429458c7a32ef"
+hash = "a3ec77d6af3f6a30478211f9dd6a020708acdf0dd156c7825fd5cf9a3d2a98b4"
 metafile = true
