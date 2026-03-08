@@ -567,8 +567,8 @@ hash = "73817469e16cd59c7a5390926ff52ac2b4e2f4025341df4188ffde1e32b204e6"
 metafile = true
 
 [[files]]
-file = "resourcepacks/conquest-marks.pw.toml"
-hash = "a118d37d77c1bac0766fe8e95675a3d94eeb0b2746300ecce8e809228d46e401"
+file = "resourcepacks/conquest-datapack.pw.toml"
+hash = "3385a6edcd61129a28b7bd2d46ccb645168e42d941f100176a8c4b8e659cf12a"
 metafile = true
 
 [[files]]
@@ -594,6 +594,6 @@ hash = "7372dfaeadad463fe2b09274b811c26b6e6caf9ef9e7a35f634cf9fc78ccffd5"
 metafile = true
 
 [[files]]
-file = "world/datapacks/conquest-marks.pw.toml"
-hash = "a3ec77d6af3f6a30478211f9dd6a020708acdf0dd156c7825fd5cf9a3d2a98b4"
+file = "world/datapacks/conquest-datapack.pw.toml"
+hash = "0d8dff5296b54e04a69e3320e0e151cc7d88dc031344ab5b6880c1184381b674"
 metafile = true
