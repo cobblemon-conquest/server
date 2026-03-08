@@ -1,0 +1,8 @@
+name = "conquest-datapack"
+filename = "cobblemon-conquest-datapack.zip"
+side = "server"
+
+[download]
+url = "https://github.com/cobblemon-conquest/conquest-datapack/releases/download/v1.1.0/cobblemon-conquest-datapack.zip"
+hash-format = "sha256"
+hash = "907b9f7fadb54c591e56d8073077eb89ddd409998fbd831780d4f2fe07e3b07d"
