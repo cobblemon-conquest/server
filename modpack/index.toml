@@ -223,6 +223,11 @@ hash = "253284368b80980f3261e44b2a539db0a608f525c6adfe8f096803de0c8e9c90"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-playerxp.pw.toml"
+hash = "c4c07874828efaaca77be1d84a053237a06c74d54c8771395fa450ba23e3c0a3"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokemon-badges.pw.toml"
 hash = "f9fca804b47d62948dc79c800723fa4e2e8d114171af6c19c901a59b99fbb073"
 metafile = true
