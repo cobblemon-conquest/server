@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/conquest-datapack.pw.toml"
-hash = "3385a6edcd61129a28b7bd2d46ccb645168e42d941f100176a8c4b8e659cf12a"
+hash = "06663e4ca4a51e588850011f8739217137467d8977a3c45e9ecfaa43c506773a"
 metafile = true
 
 [[files]]
@@ -599,5 +599,5 @@ metafile = true
 
 [[files]]
 file = "world/datapacks/conquest-datapack.pw.toml"
-hash = "0d8dff5296b54e04a69e3320e0e151cc7d88dc031344ab5b6880c1184381b674"
+hash = "6bbbddaceba3818ea66b08a5aa98205c9a4ef331f101d156e84c5ae9db10d18f"
 metafile = true

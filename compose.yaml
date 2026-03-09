@@ -1,6 +1,9 @@
 services:
   server-service:
-    image: itzg/minecraft-server:java21
+    image: ghcr.io/cobblemon/cobblemon-conquest:latest
+    build:
+      context: .
+      dockerfile: Dockerfile.server
     container_name: cobblemon-conquest-server-service
     pull_policy: daily
     restart: unless-stopped
@@ -59,7 +62,10 @@ services:
     restart: unless-stopped
 
   proxy:
-    image: itzg/mc-proxy:latest
+    image: ghcr.io/cobblemon/cobblemon-conquest-proxy:latest
+    build:
+      context: .
+      dockerfile: Dockerfile.proxy
     container_name: cobblemon-conquest-proxy
     pull_policy: daily
     restart: unless-stopped
