@@ -3,6 +3,6 @@ filename = "cobblemon-conquest-datapack.zip"
 side = "client"
 
 [download]
-url = "https://github.com/cobblemon-conquest/conquest-datapack/releases/download/v1.1.0/cobblemon-conquest-datapack.zip"
+url = "https://github.com/cobblemon-conquest/conquest-datapack/releases/download/v1.1.1/cobblemon-conquest-datapack.zip"
 hash-format = "sha256"
-hash = "907b9f7fadb54c591e56d8073077eb89ddd409998fbd831780d4f2fe07e3b07d"
+hash = "edf8a11de166ea5f27b73966e83e2db3647800d679b7cf602c413c38a14a5369"
