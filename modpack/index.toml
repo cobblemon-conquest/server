@@ -5,6 +5,10 @@ file = "config/EssentialCommands.properties"
 hash = "a2b1af632d97f7a561a5926ce1918a1b725d0750aace2957753db46340f939c3"
 
 [[files]]
+file = "config/cobbreeding/main.json"
+hash = "1ce0aba9e7f4b38b298c1b7b9cc40e085cf687383b95c6a1ae78a23d1483dee3"
+
+[[files]]
 file = "config/flan/flan_config.json"
 hash = "70385f3dbc4d8eee0faa3d75a00de45f26da890a6e60c34c155d7f41378bc02f"
 
