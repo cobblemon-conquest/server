@@ -37,7 +37,9 @@ services:
       INIT_MEMORY: 4G
       MAX_MEMORY: 6G
 
-      ENABLE_WHITELIST: "true"
+      ENABLE_WHITELIST: "false"
+
+      RESOURCE_PACK: https://github.com/cobblemon-conquest/server/releases/download/1.0.8/cobblemon-conquest-resourcepack_1.0.8.zip
 
       REPLACE_ENV_IN_PLACE: "true"
       REPLACE_ENV_VARIABLE_PREFIX: "CFG_"
