@@ -5,6 +5,10 @@ file = "config/EssentialCommands.properties"
 hash = "a2b1af632d97f7a561a5926ce1918a1b725d0750aace2957753db46340f939c3"
 
 [[files]]
+file = "config/PastureLoot.json"
+hash = "362f68b210e4bc946c2a2e299092543c85fa48ada993963987f8d6061fc108db"
+
+[[files]]
 file = "config/cobbreeding/main.json"
 hash = "1ce0aba9e7f4b38b298c1b7b9cc40e085cf687383b95c6a1ae78a23d1483dee3"
 
