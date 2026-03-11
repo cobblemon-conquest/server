@@ -32,8 +32,8 @@ jobs:
 
       - name: Set up Packwiz
         run: |
-          curl -L https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip -o packwiz.zip
-          unzip packwiz.zip
+          curl -fsSL https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip -o packwiz.zip
+          unzip -q packwiz.zip
           chmod +x packwiz
           mv packwiz /usr/local/bin/
           rm packwiz.zip
@@ -62,16 +62,16 @@ jobs:
       - name: Export modpack
         working-directory: modpack
         run: |
-          packwiz mr export && mv *.mrpack cobblemon-conquest_${{ steps.version.outputs.version }}_modrinth.mrpack
-          packwiz curseforge export && mv *.zip cobblemon-conquest_${{ steps.version.outputs.version }}_curseforge.zip
+          packwiz mr export -o install.mrpack && mv install.mrpack cobblemon-conquest_${{ steps.version.outputs.version }}_modrinth.mrpack
+          packwiz curseforge export -o install.zip && mv install.zip cobblemon-conquest_${{ steps.version.outputs.version }}_curseforge.zip
 
       - name: Export update variants (without options.txt)
         working-directory: modpack
         run: |
           rm -f options.txt
           packwiz refresh
-          packwiz mr export && mv *.mrpack cobblemon-conquest_${{ steps.version.outputs.version }}_update_modrinth.mrpack
-          packwiz curseforge export && mv *.zip cobblemon-conquest_${{ steps.version.outputs.version }}_update_curseforge.zip
+          packwiz mr export -o update.mrpack && mv update.mrpack cobblemon-conquest_${{ steps.version.outputs.version }}_update_modrinth.mrpack
+          packwiz curseforge export -o update.zip && mv update.zip cobblemon-conquest_${{ steps.version.outputs.version }}_update_curseforge.zip
 
       - name: Upload modpack artifacts
         uses: actions/upload-artifact@v4
@@ -113,7 +113,7 @@ jobs:
             curl -fSL "$URL" -o "$TMPFILE"
 
             EXTRACT_DIR=$(mktemp -d)
-            unzip -o "$TMPFILE" -d "$EXTRACT_DIR"
+            unzip -qo "$TMPFILE" -d "$EXTRACT_DIR"
 
             if [ -d "$EXTRACT_DIR/assets" ]; then
               cp -r "$EXTRACT_DIR/assets/"* merged/assets/
@@ -127,7 +127,7 @@ jobs:
         run: |
           cp resourcepack/* merged/
           cd merged
-          zip -r "../cobblemon-conquest-resourcepack_${{ steps.version.outputs.version }}.zip" .
+          zip -qr "../cobblemon-conquest-resourcepack_${{ steps.version.outputs.version }}.zip" .
 
       - name: Upload resourcepack artifact
         uses: actions/upload-artifact@v4
