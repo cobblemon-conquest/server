@@ -5,12 +5,10 @@ on:
     branches:
       - main
     paths:
-      - 'modpack/**'
-      - 'Dockerfile.server'
+      - 'modpack/pack.toml'
   pull_request:
     paths:
       - 'modpack/**'
-      - 'Dockerfile.server'
 
   workflow_dispatch:
 
@@ -36,12 +34,6 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Extract base version
-        id: base
-        run: |
-          BASE_VERSION=$(git show origin/main:modpack/pack.toml | grep -E '^version\s*=' | sed -E 's/version\s*=\s*"([^"]+)"/\1/')
-          echo "version=$BASE_VERSION" >> $GITHUB_OUTPUT
-
       - name: Build image (PR only)
         if: github.event_name == 'pull_request'
         uses: docker/build-push-action@v5
@@ -50,13 +42,35 @@ jobs:
           file: Dockerfile.server
           push: false
 
+      - name: Check version bump
+        id: check_version
+        if: github.ref == 'refs/heads/main'
+        working-directory: modpack
+        run: |
+          PREV_VERSION=$(git show HEAD~1:modpack/pack.toml 2>/dev/null | grep -E '^version\s*=' | sed -E 's/version\s*=\s*"([^"]+)"/\1/' || echo '')
+          CURR_VERSION="${{ steps.version.outputs.version }}"
+          echo "Previous version: $PREV_VERSION"
+          echo "Current version:  $CURR_VERSION"
+          echo "version=$CURR_VERSION" >> $GITHUB_OUTPUT
+          if [ "$PREV_VERSION" != "$CURR_VERSION" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Test image
+        if: github.event_name == 'pull_request'
+        run: |
+          docker compose -f compose.yaml up --wait --abort-on-container-exit
+          docker compose -f compose.yaml down
+
       - name: Build and push image (main only)
         if: github.ref == 'refs/heads/main'
         uses: docker/build-push-action@v5
         with:
           context: .
           file: Dockerfile.server
-          push: true
+          push: {{ steps.check_version.outputs.changed }}
           platforms: linux/amd64
           tags: |
             ghcr.io/${{ github.repository_owner }}/docker/cobblemon-conquest:latest
