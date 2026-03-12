@@ -6,9 +6,12 @@ on:
       - main
     paths:
       - 'modpack/pack.toml'
+      - 'Dockerfile.server'
   pull_request:
     paths:
       - 'modpack/**'
+      - 'Dockerfile.server'
+      - 'compose.yaml'
 
   workflow_dispatch:
 
