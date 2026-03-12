@@ -1,5 +1,5 @@
 {
-  "broadcastRange": 256,
+  "broadcastRange": 512,
   "playerLimit": -1,
   "broadcastAcrossDimensions": false,
   "actionBar": false,
@@ -15,9 +15,7 @@
     "spawn_notification:coord_y": "WHITE",
     "spawn_notification:coord_z": "WHITE"
   },
-  "disabledSituations": [
-    "spawn_notification:ultra_rare/*"
-  ],
+  "disabledSituations": [],
   "disabledSegments": [],
   "disabledSegmentsBySituation": [
     {
@@ -32,7 +30,18 @@
         "spawn_notification:biome",
         "spawn_notification:dimension"
       ]
+    },
+    {
+      "situations": [
+        "spawn_notification:*/despawned",
+        "spawn_notification:*/snacked",
+        "spawn_notification:*/spawned"
+      ],
+      "segments": [
+        "spawn_notification:player"
+      ]
     }
   ],
+  "ignoreSpectators": true,
   "debug": false
 }

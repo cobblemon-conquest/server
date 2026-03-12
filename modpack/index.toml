@@ -34,7 +34,7 @@ hash = "ec7d291f1796fc19273a0dd271d47890f8734da2e763f00f34932a96d9ade74d"
 
 [[files]]
 file = "config/spawn_notification.json"
-hash = "34ce09b974f3b5906e558056e6cfd8eff339f888c529e7883d17326b76f7e31e"
+hash = "f608eb6743855cf393a08c9a819b78060907343fe03d66e77e4c068bc2605b45"
 
 [[files]]
 file = "config/styled-chat.json"
