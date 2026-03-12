@@ -34,14 +34,6 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build image (PR only)
-        if: github.event_name == 'pull_request'
-        uses: docker/build-push-action@v5
-        with:
-          context: .
-          file: Dockerfile.server
-          push: false
-
       - name: Check version bump
         id: check_version
         if: github.ref == 'refs/heads/main'
@@ -61,7 +53,7 @@ jobs:
       - name: Test image
         if: github.event_name == 'pull_request'
         run: |
-          docker compose -f compose.yaml up --wait --abort-on-container-exit
+          docker compose -f compose.yaml up --wait
           docker compose -f compose.yaml down
 
       - name: Build and push image (main only)
