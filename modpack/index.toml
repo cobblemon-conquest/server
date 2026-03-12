@@ -30,7 +30,7 @@ hash = "dbda616bf6b1b4f4165c19827032fb0c42ecebb9c13e6cd9d34351450a9c2c87"
 
 [[files]]
 file = "config/rctmod-server.toml"
-hash = "d39b2c7cdf7d8f5a7ec1444d3ecd8d1849e916cc01b10f62d1d7032e29ca546e"
+hash = "ec7d291f1796fc19273a0dd271d47890f8734da2e763f00f34932a96d9ade74d"
 
 [[files]]
 file = "config/spawn_notification.json"
