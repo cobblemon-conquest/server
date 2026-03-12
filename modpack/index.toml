@@ -6,7 +6,7 @@ hash = "a2b1af632d97f7a561a5926ce1918a1b725d0750aace2957753db46340f939c3"
 
 [[files]]
 file = "config/PastureLoot.json"
-hash = "362f68b210e4bc946c2a2e299092543c85fa48ada993963987f8d6061fc108db"
+hash = "bbd614a5bc5bccba5a4ee89353767d960ef792bbfc1af7a32607de12b5cc98a3"
 
 [[files]]
 file = "config/cobbreeding/main.json"

@@ -35,7 +35,10 @@
     "minecraft:magenta_wool",
     "minecraft:pink_wool",
     "cobblemon:sharp_beak",
-    "cobblemon:tasty_tail"
+    "cobblemon:tasty_tail",
+    "cobblemon:rare_candy",
+    "minecraft:nether_star",
+    "cobblemon:ability_patch"
   ],
   "legacy_flatten_item_quantity": false
 }
