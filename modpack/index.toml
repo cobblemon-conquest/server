@@ -146,6 +146,11 @@ hash = "a9f6cf1a98bc318c887b672aecaff6ffdbf33a6ec06af5f2686b292988d0846e"
 metafile = true
 
 [[files]]
+file = "mods/catch-rate-display.pw.toml"
+hash = "b497cc200583bafb4a01547bd8bfc15f729cf497437ba96f319feec5bea79f6d"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "a4d21da45c40e8f1e3b76c9855ea3f1c15736cf2b12475e9de3efd05f8f48a8d"
 metafile = true
