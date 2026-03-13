@@ -516,6 +516,11 @@ hash = "4739fd0f979dd5fefecc5c47a07ef61ca78d1bdf525cd4e544e1a331ede3ca61"
 metafile = true
 
 [[files]]
+file = "mods/simple-quests.pw.toml"
+hash = "2849b0e70e4b11ea693cfaef4d3c394cf363032e1cdceab7e90784ce0457f514"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "e42572fc721676972c9e562a0b1811de7bd8a646696213316f9e113de8a527a4"
 metafile = true
