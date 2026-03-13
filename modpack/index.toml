@@ -166,6 +166,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/cobble-caf-forms.pw.toml"
+hash = "ea354138b16c7dd092f29b28d8da5e7b922d311c449cb2dd65f4c5496c35d935"
+metafile = true
+
+[[files]]
 file = "mods/cobblecuisine.pw.toml"
 hash = "dd9c84c3f22e37ee533990585112642b5c9a7ede61d29e5d13330a99b9a48b02"
 metafile = true
