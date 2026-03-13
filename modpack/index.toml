@@ -286,6 +286,11 @@ hash = "6413f6c6bef7abc5a808a54111f093a17daf4471e89d8535840f2a24966bdcd4"
 metafile = true
 
 [[files]]
+file = "mods/cobblemonraiddens.pw.toml"
+hash = "25f2e709b9bbd978c96fdb8171cd52e6db183c24a8df487d590580970e6ca144"
+metafile = true
+
+[[files]]
 file = "mods/cobblemonrizetweaks.pw.toml"
 hash = "6ae1eedd3c131b5be53fba2ae48d53a4992fe2361a574bfd07c3d2df64ba2702"
 metafile = true
