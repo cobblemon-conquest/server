@@ -401,11 +401,6 @@ hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
 metafile = true
 
 [[files]]
-file = "mods/hiddenmons-cobblemon.pw.toml"
-hash = "d2e4214bbe6f93f7f95f688989ee296b419b7dba10dee858abb346ae73b4cfbe"
-metafile = true
-
-[[files]]
 file = "mods/icommon.pw.toml"
 hash = "44ecb5c09a3810f6c605f4e403e3c42c0ee40da91ccd3748d9a02fee746f6ce3"
 metafile = true
