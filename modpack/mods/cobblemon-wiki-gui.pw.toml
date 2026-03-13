@@ -1,0 +1,13 @@
+name = "Cobblemon Wiki Gui"
+filename = "CobblemonWikiGui-fabric-2.4.2+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1KP4CLlU/versions/9hEtQ7y9/CobblemonWikiGui-fabric-2.4.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "05024d149cde736a49a1930406144f8afcf6f707b114424516a4f4e092232e125cb92ffc09f746a15fd9fd5bb3d0e1c9a4c47fb75755134c82c6f2c1fca2c1ec"
+
+[update]
+[update.modrinth]
+mod-id = "1KP4CLlU"
+version = "9hEtQ7y9"

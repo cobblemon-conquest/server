@@ -1,0 +1,13 @@
+name = "Simple Quests"
+filename = "simplequests-1.21.1-2.2.0-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/HriwQx5q/versions/51xlgzcM/simplequests-1.21.1-2.2.0-fabric.jar"
+hash-format = "sha512"
+hash = "ad6586bd29c0a2ddddbf4df6b59b9534d662967b350f11eeed089d726b8d63dc21774ed2edd1b3c39af47e281035419fd16028e6155872aa1514e5b3d17cfa76"
+
+[update]
+[update.modrinth]
+mod-id = "HriwQx5q"
+version = "51xlgzcM"
