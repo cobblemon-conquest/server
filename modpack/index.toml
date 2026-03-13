@@ -456,6 +456,11 @@ hash = "bf0551888bcfaa93ecde7d2b3dc0ef8238e9bdec9285246c81a206c0a529b735"
 metafile = true
 
 [[files]]
+file = "mods/pokeblocks.pw.toml"
+hash = "2776d6c14fbfbc55183ad6953596ae8e3cf35816813bf8d9cde663044d5c6121"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "1c13286be4f09e25c93ef1640335a951df1dd0f155f6d7a173dfc284831e09c3"
 metafile = true
