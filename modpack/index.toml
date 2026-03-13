@@ -585,6 +585,11 @@ hash = "224356816f38b00457a54268435fc051f03b8f649cf9df099c676e5641f9b57f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
+hash = "a958030f95997d32191ffd80d656314b86747c46adfb16a3a128389d6a3ff6c9"
+metafile = true
+
+[[files]]
 file = "scripts/disable-legendary-objects.zs"
 hash = "92db788d348ed828e68bf117151ff8bee4b87549cae3143e52c1af7f5460c554"
 
