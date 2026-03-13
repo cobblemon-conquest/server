@@ -331,11 +331,6 @@ hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true
 
 [[files]]
-file = "mods/dex-rewards.pw.toml"
-hash = "182b013f3e4fb410feaa6ec2d70b6152820c2fad67f92b59321adacb974f5f64"
-metafile = true
-
-[[files]]
 file = "mods/e-utils.pw.toml"
 hash = "0477f41e688eb95d6106b4df2c4fd433023d0b36d1ee6aed1a4e885cb2d26716"
 metafile = true
