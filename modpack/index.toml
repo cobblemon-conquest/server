@@ -181,6 +181,11 @@ hash = "ade2bd4db7d5a79135cc492d72dbe72e21af5d704dfb88e6dc7622b684da31dd"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-alpha-project.pw.toml"
+hash = "f0a7e780d2b5d2d6d22056784afce70b7cf3dab031088384f00cbd6e72d778b4"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-armors.pw.toml"
 hash = "c560409d67633469a0f679cf88c116c243174364bc65bb889ca4b9df9be40e88"
 metafile = true
