@@ -37,7 +37,7 @@ services:
       INIT_MEMORY: 4G
       MAX_MEMORY: 6G
 
-      ENABLE_WHITELIST: "true"
+      ENABLE_WHITELIST: "false"
 
       REPLACE_ENV_IN_PLACE: "true"
       REPLACE_ENV_VARIABLE_PREFIX: "CFG_"
@@ -56,9 +56,9 @@ services:
       - ./data/server-service:/data
       - ./modpack:/modpack:ro
   
-  limbo:
+  limbo-service:
     image: ghcr.io/quozul/picolimbo:latest
-    container_name: cobblemon-conquest-limbo
+    container_name: cobblemon-conquest-limbo-service
     restart: unless-stopped
 
   proxy:
