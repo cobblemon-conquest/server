@@ -680,11 +680,6 @@ hash = "224356816f38b00457a54268435fc051f03b8f649cf9df099c676e5641f9b57f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/new-glowing-ores.pw.toml"
-hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
-metafile = true
-
-[[files]]
 file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
 hash = "a958030f95997d32191ffd80d656314b86747c46adfb16a3a128389d6a3ff6c9"
 metafile = true
