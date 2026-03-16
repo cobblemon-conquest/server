@@ -466,6 +466,11 @@ hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
 file = "mods/more-cobblemon-tweaks.pw.toml"
 hash = "b008dca46f8a4241def14990a429352173cdfba8aab0fbe427b20437df54f78b"
 metafile = true
