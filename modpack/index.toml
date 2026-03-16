@@ -471,6 +471,11 @@ hash = "4d60813e8db9261205387f5c8cb96d0b372d3bbe78159369abbddab24f4b8788"
 metafile = true
 
 [[files]]
+file = "mods/navas-zamega.pw.toml"
+hash = "e7184e9b3c1efe68a506c3210b201f00b12b8128fd8057b4b006b01ba02ff9ef"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
