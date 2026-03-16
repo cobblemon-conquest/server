@@ -656,10 +656,6 @@ hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "361139fab7780ec7b3c78e761128feec04943264dda0f82ae6b1e78edd9b7a07"
-
-[[files]]
 file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
 hash = "ae49f98d32894b377270e2a8bb13ad1fd0d48dbbfd01b847e68642af20a96630"
 metafile = true
