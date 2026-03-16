@@ -421,6 +421,11 @@ hash = "44ecb5c09a3810f6c605f4e403e3c42c0ee40da91ccd3748d9a02fee746f6ce3"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "de9842a74bad2677a92f96157171b3108dcacb6a517d395006a1f158d5f46bbb"
+metafile = true
+
+[[files]]
 file = "mods/invview.pw.toml"
 hash = "515b020926d1fd0b6d1a32d106a376ba2c77bc5587bed99cecbc2d944ad18a99"
 metafile = true
