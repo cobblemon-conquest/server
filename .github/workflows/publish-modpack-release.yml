@@ -65,14 +65,6 @@ jobs:
           packwiz mr export -o install.mrpack && mv install.mrpack cobblemon-conquest_${{ steps.version.outputs.version }}_modrinth.mrpack
           packwiz curseforge export -o install.zip && mv install.zip cobblemon-conquest_${{ steps.version.outputs.version }}_curseforge.zip
 
-      - name: Export update variants (without options.txt)
-        working-directory: modpack
-        run: |
-          rm -f options.txt
-          packwiz refresh
-          packwiz mr export -o update.mrpack && mv update.mrpack cobblemon-conquest_${{ steps.version.outputs.version }}_update_modrinth.mrpack
-          packwiz curseforge export -o update.zip && mv update.zip cobblemon-conquest_${{ steps.version.outputs.version }}_update_curseforge.zip
-
       - name: Upload modpack artifacts
         uses: actions/upload-artifact@v4
         with:
