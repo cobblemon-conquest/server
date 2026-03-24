@@ -33,6 +33,10 @@ file = "config/rctmod-server.toml"
 hash = "ec7d291f1796fc19273a0dd271d47890f8734da2e763f00f34932a96d9ade74d"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "2862d775d17d48bc70bb843b8b312c47fed83684b563885e4589d2464f0c4ddc"
+
+[[files]]
 file = "config/spawn_notification.json"
 hash = "f608eb6743855cf393a08c9a819b78060907343fe03d66e77e4c068bc2605b45"
 
@@ -541,6 +545,11 @@ hash = "8a49f4c1a215d767fb6b00370fc8e294cbde06f9508f8f2196d0a8230ec544cd"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
@@ -657,27 +666,27 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "ae49f98d32894b377270e2a8bb13ad1fd0d48dbbfd01b847e68642af20a96630"
+hash = "66eaa5b13c32a5318e84404c19cda3ffe691143fcfd64a4c0ba4f2a2d561603d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/book-dex.pw.toml"
+file = "resourcepacks/book-dex-resourcepack.pw.toml"
 hash = "73817469e16cd59c7a5390926ff52ac2b4e2f4025341df4188ffde1e32b204e6"
 metafile = true
 
 [[files]]
-file = "resourcepacks/conquest-datapack.pw.toml"
+file = "resourcepacks/cobblemon-conquest-datapack.pw.toml"
 hash = "06663e4ca4a51e588850011f8739217137467d8977a3c45e9ecfaa43c506773a"
 metafile = true
 
 [[files]]
-file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
-hash = "224356816f38b00457a54268435fc051f03b8f649cf9df099c676e5641f9b57f"
+file = "resourcepacks/e19-minimap-icons.pw.toml"
+hash = "1b537fa61ab7b3e98e7218c8f125b48093ff6ffe92a54009aa3a0dd200df06d2"
 metafile = true
 
 [[files]]
-file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
-hash = "a958030f95997d32191ffd80d656314b86747c46adfb16a3a128389d6a3ff6c9"
+file = "resourcepacks/rct-textures-plus.pw.toml"
+hash = "a539d1fd82df90f78b93acb833ae0c472798a792b2c14552094c62d06fe9ae3e"
 metafile = true
 
 [[files]]

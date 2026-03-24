@@ -1,0 +1,17 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "cobblemon:regionbiasforms",
+    "cobblemon:gyaradosjump",
+    "cobblemon:uniqueshinyforms",
+    "mega_showdown:gyaradosjumpingmega",
+    "mega_showdown:regionbiasmsd",
+    "cobbreeding:coloredeggs",
+    "cobbreeding:pasturefix",
+    "file/rct-textures-plus.zip",
+    "file/allthemons-x-mega-showdown-legacy.zip",
+    "file/e19-minimap-icons.zip",
+    "file/book-dex-resourcepack.zip",
+    "file/cobblemon-conquest-datapack.zip"
+  ]
+}
