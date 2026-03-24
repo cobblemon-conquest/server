@@ -6,12 +6,10 @@ on:
       - main
     paths:
       - 'modpack/**'
-      - 'resourcepack/**'
 
   pull_request:
     paths:
       - 'modpack/**'
-      - 'resourcepack/**'
   workflow_dispatch:
 
 permissions:
@@ -73,63 +71,9 @@ jobs:
             modpack/*.mrpack
             modpack/*.zip
 
-  merge-resourcepacks:
-    runs-on: ubuntu-latest
-    needs: build
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Read version from pack.toml
-        id: version
-        working-directory: modpack
-        run: |
-          VERSION=$(grep -E '^version\s*=' pack.toml | sed -E 's/version\s*=\s*"([^"]+)"/\1/')
-          echo "version=$VERSION" >> $GITHUB_OUTPUT
-
-      - name: Download and merge resourcepacks
-        run: |
-          mkdir -p merged/assets
-
-          for toml in modpack/resourcepacks/*.pw.toml; do
-            URL=$(grep -E '^\s*url\s*=' "$toml" | sed -E 's/.*url\s*=\s*"([^"]+)".*/\1/')
-
-            if [ -z "$URL" ]; then
-              echo "No URL found in $toml, skipping"
-              continue
-            fi
-
-            echo "Downloading from $URL"
-            TMPFILE=$(mktemp /tmp/rp-XXXXXX.zip)
-            curl -fSL "$URL" -o "$TMPFILE"
-
-            EXTRACT_DIR=$(mktemp -d)
-            unzip -qo "$TMPFILE" -d "$EXTRACT_DIR"
-
-            if [ -d "$EXTRACT_DIR/assets" ]; then
-              cp -r "$EXTRACT_DIR/assets/"* merged/assets/
-            fi
-
-            rm -f "$TMPFILE"
-            rm -rf "$EXTRACT_DIR"
-          done
-
-      - name: Build combined resourcepack
-        run: |
-          cp resourcepack/* merged/
-          cd merged
-          zip -qr "../cobblemon-conquest-resourcepack_${{ steps.version.outputs.version }}.zip" .
-
-      - name: Upload resourcepack artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: resourcepack
-          path: cobblemon-conquest-resourcepack_*.zip
-
   release:
     runs-on: ubuntu-latest
-    needs: [build, merge-resourcepacks]
+    needs: [build]
     if: github.ref == 'refs/heads/main' && needs.build.outputs.version_changed == 'true'
 
     steps:
