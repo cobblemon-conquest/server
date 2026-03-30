@@ -54,7 +54,7 @@ hash = "138a2e61d6d84697df0f0a45f0eefe8556ebc0d5417cb4bb4524036a7df3f817"
 
 [[files]]
 file = "config/timeoutout.json"
-hash = "8e4c10a202578f86f648649f1b9baca28eebf5a15316253867e3b27a9d7a61c3"
+hash = "7000ec625cb1ae9d390084f014a3c5d554566e3aabb4f37236efe266d7475ce8"
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
