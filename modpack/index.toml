@@ -9,6 +9,14 @@ file = "config/PastureLoot.json"
 hash = "bbd614a5bc5bccba5a4ee89353767d960ef792bbfc1af7a32607de12b5cc98a3"
 
 [[files]]
+file = "config/cobbledollars/bank.json"
+hash = "dd63d10afb7118d3ab9e72ea0c4e755e8439a39b8afc77b99365a9b4ca8bb74b"
+
+[[files]]
+file = "config/cobbledollars/common.json"
+hash = "55b7706fb2565250f6a5b4c656aae8e6bf4562f69ca89383c5694e42df623862"
+
+[[files]]
 file = "config/cobbreeding/main.json"
 hash = "1ce0aba9e7f4b38b298c1b7b9cc40e085cf687383b95c6a1ae78a23d1483dee3"
 
