@@ -73,6 +73,7 @@ services:
     stdin_open: true
     environment:
       TYPE: VELOCITY
+      VELOCITY_VERSION: 3.4.0
       BUNGEE_JAR_REVISION: "1"
       CFG_MOTD: Cobblemon Conquest Proxy
       REPLACE_ENV_VARIABLES: "true"
