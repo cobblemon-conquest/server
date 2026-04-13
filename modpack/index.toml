@@ -17,12 +17,24 @@ file = "config/cobbledollars/common.json"
 hash = "55b7706fb2565250f6a5b4c656aae8e6bf4562f69ca89383c5694e42df623862"
 
 [[files]]
+file = "config/cobblemonalphas/config.json"
+hash = "1146c32bfb635eced7b0eac1362f707b16d3daa6ba683bf5b775e947b558aec6"
+
+[[files]]
 file = "config/cobbreeding/main.json"
 hash = "1ce0aba9e7f4b38b298c1b7b9cc40e085cf687383b95c6a1ae78a23d1483dee3"
 
 [[files]]
 file = "config/flan/flan_config.json"
 hash = "70385f3dbc4d8eee0faa3d75a00de45f26da890a6e60c34c155d7f41378bc02f"
+
+[[files]]
+file = "config/immersive_paintings/client_config.toml"
+hash = "70cb8deb69ce420df72e90a84f05f3bece7d9bf60b18c556d9dd499521091a52"
+
+[[files]]
+file = "config/immersive_paintings/common_config.toml"
+hash = "4c6c049ecc5e728fa67e7cd07ad511984d42ecf599227b89909698e1a9e3b965"
 
 [[files]]
 file = "config/kits.properties"
@@ -283,8 +295,8 @@ hash = "5d00637a23df408f908b466202ffca7d255c8d1bd293b9a6ba9a002a691c5fbf"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-spawn-alerts.pw.toml"
-hash = "f893d331d07be00f4d1500ecd2a0df6c7efdb1c9d246e2968a58a8d341044cb3"
+file = "mods/cobblemon-spawn-notification.pw.toml"
+hash = "fcae16c281a1fce8c440f65e333fdd318a7f738dd41c9102cf76f649968d2d97"
 metafile = true
 
 [[files]]
@@ -380,11 +392,6 @@ metafile = true
 [[files]]
 file = "mods/easy-npc.pw.toml"
 hash = "fc9fd2045fc5c5a76252451af69029bf43741065cb927a6cc67b499c1ddf3e70"
-metafile = true
-
-[[files]]
-file = "mods/embers-text-api.pw.toml"
-hash = "54a2d78ab5cfcdc6f15e82bf408e686cd968d5f5d23ee4fbd81117e439331c50"
 metafile = true
 
 [[files]]
@@ -694,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "90a4e4e987b7ae510308bbe2389ae2dcf72a70fbb3e007abacef11b6d2491099"
+hash = "0c8dde52697f463556de3dbfb614c629bc7eb31aa78574fea80d2f37d1889b7f"
 metafile = true
 
 [[files]]
