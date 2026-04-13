@@ -1,0 +1,8 @@
+name = "conquest-mod"
+filename = "conquest_mod-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/cobblemon-conquest/conquest-mod/releases/download/v1.1.0/conquest_mod-fabric-1.1.0.jar"
+hash-format = "sha256"
+hash = "bd842d0f92fc4a034cb0894cebabd48356e586947d491391a0d8845785b8fa1a"

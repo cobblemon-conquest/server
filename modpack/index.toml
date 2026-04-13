@@ -283,8 +283,8 @@ hash = "5d00637a23df408f908b466202ffca7d255c8d1bd293b9a6ba9a002a691c5fbf"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "fcae16c281a1fce8c440f65e333fdd318a7f738dd41c9102cf76f649968d2d97"
+file = "mods/cobblemon-spawn-alerts.pw.toml"
+hash = "f893d331d07be00f4d1500ecd2a0df6c7efdb1c9d246e2968a58a8d341044cb3"
 metafile = true
 
 [[files]]
@@ -338,6 +338,11 @@ hash = "e1f7a7bc656fb2af171219849b67b26d496881ac5a4405573a122ad344441261"
 metafile = true
 
 [[files]]
+file = "mods/conquest-mod.pw.toml"
+hash = "a0c3342f2bd3c4f2932e6caf65ec89fd996d75432e5a15588ba90222ce57479d"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "faaff57c5b26e464bebc517f3ead8df1ccc5050affa8340f309579ea0088fc15"
 metafile = true
@@ -375,6 +380,11 @@ metafile = true
 [[files]]
 file = "mods/easy-npc.pw.toml"
 hash = "174a2e76cd1cd2ef3aa55ede32e7a1f8da583b777226d050bc56dc81ed736566"
+metafile = true
+
+[[files]]
+file = "mods/embers-text-api.pw.toml"
+hash = "54a2d78ab5cfcdc6f15e82bf408e686cd968d5f5d23ee4fbd81117e439331c50"
 metafile = true
 
 [[files]]
@@ -423,6 +433,11 @@ hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "dce0df1d0cb1a7f05811ba502f3a3de0458e0c5154f1b72ae493a339f3866083"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "fe2682e6dbdd4350863e1fcd3f5f211fb437cf7791539bedd50779745beb5232"
 metafile = true
@@ -440,6 +455,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "de9842a74bad2677a92f96157171b3108dcacb6a517d395006a1f158d5f46bbb"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "66bdc905c0db7ecdcca5b85451aca40b872fdb87ea681e270401f418ef4d70e5"
 metafile = true
 
 [[files]]
