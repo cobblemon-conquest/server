@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/conquest-mod.pw.toml"
-hash = "a0c3342f2bd3c4f2932e6caf65ec89fd996d75432e5a15588ba90222ce57479d"
+hash = "9a282d9936fc8239c9989407197083be5929e612f67f69796a5dcb77522a9567"
 metafile = true
 
 [[files]]

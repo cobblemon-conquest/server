@@ -34,8 +34,8 @@ services:
 
       ENABLE_COMMAND_BLOCK: "true"
 
-      INIT_MEMORY: 4G
-      MAX_MEMORY: 6G
+      INIT_MEMORY: 2G
+      MAX_MEMORY: 4G
 
       ENABLE_WHITELIST: "false"
 
