@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "93f989575eec26f333d4253f1af961983ba4d5179e1c3237b643836b40614a43"
+hash = "f222973684e5e1569ced7b1af6d91fdfd41e42262e8ad86cfbc6ab23e68fd8e7"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/catch-rate-display.pw.toml"
-hash = "b497cc200583bafb4a01547bd8bfc15f729cf497437ba96f319feec5bea79f6d"
+hash = "197fece0315dbb6623f55b4e33071b60265dd070dade17e11c7aeba3a485cb0c"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-additions.pw.toml"
-hash = "ade2bd4db7d5a79135cc492d72dbe72e21af5d704dfb88e6dc7622b684da31dd"
+hash = "5ddeb6f55fc1e3ccf36bd3733768ff64337e5531b018a05668c7e9d42f3c2b19"
 metafile = true
 
 [[files]]
@@ -244,12 +244,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-integrations.pw.toml"
-hash = "ea89eb2440d0836c498a13b6e991f186f5a593329d2af127b65f113862254ff8"
+hash = "be97750e0c69d1650c3f679c61e0a14bc70f1bc0c13b6f6ac2681575fb4110dc"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "2d0184c17562e8849657239ecb9b63f48333a2b19ca44ac5491b2fc14815ea0f"
+hash = "fccff947850df79553747df0ca6b02a63aac609b5132ce4b3fa120eab471b132"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-playerxp.pw.toml"
-hash = "c4c07874828efaaca77be1d84a053237a06c74d54c8771395fa450ba23e3c0a3"
+hash = "b5c86dd1a95e71112eff302235cd2f0182aeabe0bf636e6d8cca222d2d98d7b7"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "eb51c053d004eafca2bca4cb91f9fedcee372fdf78c89fbbc6914c0fd103fc99"
+hash = "edd0ca1b9a516e810b8c24373545fb37fc2e540d071c5e7dde77193e3d23532d"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
-hash = "25f2e709b9bbd978c96fdb8171cd52e6db183c24a8df487d590580970e6ca144"
+hash = "0ad6499a89db602984628b691d759d8fbe177c313d851e9d6d4db8ad6ff57b73"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblespawners.pw.toml"
-hash = "d65c20b4b5001b05bc098736e5356939d9a035fa4414c8b5a87f28e1f80552b6"
+hash = "8a90be42e6f30827942b3aaa9632c4a3f0f262194ad56389227ac57a9c2edf0e"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "faaff57c5b26e464bebc517f3ead8df1ccc5050affa8340f309579ea0088fc15"
+hash = "475652dc43d8d78a679174d490b2e19d7975f536e64bcadef0e781d6f71ee28b"
 metafile = true
 
 [[files]]
@@ -369,17 +369,17 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "74644e6105a0f1f9e49c01e4f164abf3ebc4e5b62cccb7448df2404ec674a5db"
+hash = "4574adc67245a10861e65be6cc2fc0bf8df45129e9597c7c08ef56f159b305e8"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "5da300d669c342ba1431954d9107b756f1c1d4a3b2969aaa7c0d6e8257062a1a"
+hash = "70115ef9cc30f70e953bf6a228dfec94acf78ef31c5567f5c1886e9435c1f24a"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "174a2e76cd1cd2ef3aa55ede32e7a1f8da583b777226d050bc56dc81ed736566"
+hash = "fc9fd2045fc5c5a76252451af69029bf43741065cb927a6cc67b499c1ddf3e70"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1fbcec6fae4237b80bf2becfc06fb52a49512821f402b5928b1e2533c73b3142"
+hash = "44b098ffab2f728d5a50f33aee186c89a15b120aaa4be327c729f491ef90379e"
 metafile = true
 
 [[files]]
@@ -399,12 +399,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "49884f2d7db0e731facf0aa70cf2038dd513624c450cba773a8ca7a47e53953b"
+hash = "a42d6d03c6764f037181b023e0b4e3c5574fdda5f9b837d1ca753dfa4180e1d5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "fe2682e6dbdd4350863e1fcd3f5f211fb437cf7791539bedd50779745beb5232"
+hash = "95499bb1cfcbfc2a2e2734a7034de0f35c17058048866fdf17fc3a241d9f689e"
 metafile = true
 
 [[files]]
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "6e212e9056ddaf5dda18ff6a243c118b1cf839a8ba42b999c594f85751896a33"
+hash = "24d8aa01b4dd63ea4e42bb9ed7fed018a0fb4e271f3f78f2492fb07b757050af"
 metafile = true
 
 [[files]]
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
 metafile = true
 
 [[files]]
@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/navas-zamega.pw.toml"
-hash = "e7184e9b3c1efe68a506c3210b201f00b12b8128fd8057b4b006b01ba02ff9ef"
+hash = "48f194bed1c0b6a917e73a88edb55b031ba3e55d3009293398a737c9e6da9fb5"
 metafile = true
 
 [[files]]
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "1c86eb0c48eb53d3e6aa704f7c52eb64946b488855f785ab07b0fd3112311288"
+hash = "c0fb35b9b9754549845f905fa6651d7edc5227599bb4e32c4829ca1a975cd93e"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/pokeblocks.pw.toml"
-hash = "2776d6c14fbfbc55183ad6953596ae8e3cf35816813bf8d9cde663044d5c6121"
+hash = "5db32bd841fda8547d27e6c74ca4c11ea9a50285fbade0bed654deb8b5e48db0"
 metafile = true
 
 [[files]]
@@ -564,12 +564,12 @@ metafile = true
 
 [[files]]
 file = "mods/rctapi.pw.toml"
-hash = "f02ba583f7e666dae9fd2a8aa329022af65f47ed264066b3df0367ed67eed52b"
+hash = "bbfc6a83fafa4e25f3033c09eb23bb342ee99193f8e5c5d848244ab3fcfa27e6"
 metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "8a49f4c1a215d767fb6b00370fc8e294cbde06f9508f8f2196d0a8230ec544cd"
+hash = "02bef875ebc40a486e906a6af1bc9179dec850cdb8c9735211ff8e36cd655c72"
 metafile = true
 
 [[files]]
@@ -594,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e42572fc721676972c9e562a0b1811de7bd8a646696213316f9e113de8a527a4"
+hash = "fb6eb6b6ed51712433c8f8e6e49ae3743e2e172baac5878deb50add8fdfa2b11"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "4edb064b4556fc614f9b921099b94e07ec10ce7bf2e5ea5ddad566acc32223ec"
+hash = "cd195e5e3b4a76447ad8aa86acf563640cffe3abce037e6c864341360c3271a1"
 metafile = true
 
 [[files]]
@@ -669,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "e5b1fa334e6e3ebe560b1a9d7b7d6a97cc1d21bfec6ab9fb4e1b632d6fad0b68"
+hash = "448da2c4b44b85e9024c34ab36b38ab256f6cc2d1bbca894fb3bf140bed962f9"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "66eaa5b13c32a5318e84404c19cda3ffe691143fcfd64a4c0ba4f2a2d561603d"
+hash = "90a4e4e987b7ae510308bbe2389ae2dcf72a70fbb3e007abacef11b6d2491099"
 metafile = true
 
 [[files]]
@@ -731,7 +731,7 @@ hash = "68049a307efa27a19765bfeb47ed0b8629ba180e9fe0b02f390be5a373af39aa"
 
 [[files]]
 file = "world/datapacks/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "7372dfaeadad463fe2b09274b811c26b6e6caf9ef9e7a35f634cf9fc78ccffd5"
+hash = "779d9829cb02940d5af2725cf11c87f606098a3b8bae3e754cd5587e67552700"
 metafile = true
 
 [[files]]
