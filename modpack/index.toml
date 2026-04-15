@@ -270,6 +270,11 @@ hash = "784184013f308a4fbec92b2ab5610969ca33ec547fd953fcc9d50cd2095d63e2"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-party-extras.pw.toml"
+hash = "ec93ced1345b05eb5c14e4b685a4f37b48c0f43210d5ba31702dbc23927cd379"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pasture-loot.pw.toml"
 hash = "253284368b80980f3261e44b2a539db0a608f525c6adfe8f096803de0c8e9c90"
 metafile = true
@@ -287,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "edd0ca1b9a516e810b8c24373545fb37fc2e540d071c5e7dde77193e3d23532d"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-research-tasks.pw.toml"
+hash = "66a9cc09a6862e2278b4646b058edde301aeeed41338645a5472551aa371ab3a"
 metafile = true
 
 [[files]]
@@ -402,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "4f128957cb3715a76e340e35273e9b38e474a0a3798a325f1b0a998db9d5c0c1"
+metafile = true
+
+[[files]]
+file = "mods/extra-move-anims-cobblemon.pw.toml"
+hash = "9c3e7688ee3b53f2bfb390611a137b25619a71fc284c608f7e45a82342d966be"
 metafile = true
 
 [[files]]
