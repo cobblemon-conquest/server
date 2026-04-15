@@ -235,6 +235,11 @@ hash = "dbcd6c1d82ef54574a85b8aa7a74d91cfbeca90830706346d2e1ee5bf2b9c86f"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-ball-stickers.pw.toml"
+hash = "49977931fef02a726eaf84a19ea3b55cda10d068ea1422070d7295f711d4e94d"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "0b1740cc342248a7bf917a147d6b8e852a9253dfbcfe180f7cf50f97bf6d646e"
 metafile = true
@@ -315,6 +320,11 @@ hash = "d4209af3e46ad2c248598c3d09e00325752f05464d43a57b1178669efafb2670"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-underground-mining-minigame.pw.toml"
+hash = "cac2e093e0d5b7bd97d76431794a1f0d85d3ae61acc9929476fb4a0b0c7973de"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-utility-ivs-evs-more-no-recipes.pw.toml"
 hash = "3f598e66ddf09ec796aaa0f59085f6a95f2c794a185c91f90b8b675e19b738b9"
 metafile = true
@@ -327,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "6413f6c6bef7abc5a808a54111f093a17daf4471e89d8535840f2a24966bdcd4"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonboss.pw.toml"
+hash = "df34608dd7474058ed63eca10f32e79dc4286a581664b5630802274f13a53568"
 metafile = true
 
 [[files]]
