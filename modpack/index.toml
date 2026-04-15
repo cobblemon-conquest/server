@@ -270,6 +270,11 @@ hash = "fccff947850df79553747df0ca6b02a63aac609b5132ce4b3fa120eab471b132"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-minimons.pw.toml"
+hash = "f21ef10883cf78de53216deeffb054179b26710dda848e0de280e896967409cf"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-move-inspector.pw.toml"
 hash = "784184013f308a4fbec92b2ab5610969ca33ec547fd953fcc9d50cd2095d63e2"
 metafile = true
@@ -375,8 +380,13 @@ hash = "e1f7a7bc656fb2af171219849b67b26d496881ac5a4405573a122ad344441261"
 metafile = true
 
 [[files]]
+file = "mods/conquest-mod-server.pw.toml"
+hash = "2c51208558def9419f0df8d335cf5e267d740933957c3281b511b37ef5844806"
+metafile = true
+
+[[files]]
 file = "mods/conquest-mod.pw.toml"
-hash = "2c4f18751b7ee54e480dee22d58ff33036992c648ba469a14ee603fc456c13a1"
+hash = "431490f8dc3330bdacc456372c2abb2d04f480a59a3ee6feb96f48d65d9d7a73"
 metafile = true
 
 [[files]]

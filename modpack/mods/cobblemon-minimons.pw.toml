@@ -1,0 +1,13 @@
+name = "Cobblemon Minimons"
+filename = "cobblemon_minimons-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZbgSWwyz/versions/3K4Jbrel/cobblemon_minimons-1.2.5.jar"
+hash-format = "sha512"
+hash = "1c258fe5c5119180c57bb21326678c4d923a965ec3cba04bafdd100fb728b51e301640d1b10f9b9990cd35eafabf8134d57d2841b1b241bd7a74f45794a98dbb"
+
+[update]
+[update.modrinth]
+mod-id = "ZbgSWwyz"
+version = "3K4Jbrel"
