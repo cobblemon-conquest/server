@@ -3,11 +3,11 @@ filename = "allthemons-x-mega-showdown-legacy.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/odZZdRCE/versions/JkoWi39g/ATM%20x%20MSD%20%5B3.3.0%5D.zip"
+url = "https://cdn.modrinth.com/data/odZZdRCE/versions/D7z5VLh4/ATM%20x%20MSD%20%5Bv3.5.0%5D.zip"
 hash-format = "sha512"
-hash = "43fbf0e41d29b2b2ae58bc82227f15f07f25393cd02e75db1f799b66be2e9642061edf3808a56226c6154d195681888afe7382ce1f889c7b21fa82b3da48d55a"
+hash = "edfa186e5991dc3147591fda44e0075f629c4a1dbdece1100493c720ba873549e30eaf795c14758013aff5d91f20f539fb08791bc4f548f3a13262857851162f"
 
 [update]
 [update.modrinth]
 mod-id = "odZZdRCE"
-version = "JkoWi39g"
+version = "D7z5VLh4"
