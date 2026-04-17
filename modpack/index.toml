@@ -245,11 +245,6 @@ hash = "0b1740cc342248a7bf917a147d6b8e852a9253dfbcfe180f7cf50f97bf6d646e"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-cobblestats.pw.toml"
-hash = "6ae09cfd9cb42c9eec7bb878c5f05fb74138f02b93363b4ec3c6817f63a17dd5"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-counter.pw.toml"
 hash = "215d686df072cc66bfcdee1b3543ec8ce7bc77ae4b07f53cda31c0256fdf4071"
 metafile = true
@@ -272,11 +267,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-minimons.pw.toml"
 hash = "f21ef10883cf78de53216deeffb054179b26710dda848e0de280e896967409cf"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-move-inspector.pw.toml"
-hash = "784184013f308a4fbec92b2ab5610969ca33ec547fd953fcc9d50cd2095d63e2"
 metafile = true
 
 [[files]]
@@ -342,11 +332,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "6413f6c6bef7abc5a808a54111f093a17daf4471e89d8535840f2a24966bdcd4"
-metafile = true
-
-[[files]]
-file = "mods/cobblemonboss.pw.toml"
-hash = "df34608dd7474058ed63eca10f32e79dc4286a581664b5630802274f13a53568"
 metafile = true
 
 [[files]]
