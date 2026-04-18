@@ -764,5 +764,5 @@ metafile = true
 
 [[files]]
 file = "world/datapacks/conquest-datapack.pw.toml"
-hash = "39608f03a783f41bc66b266706ee87b3817df906926950f8f733124510628347"
+hash = "fa1e02de0269205581f35ec61184d11bf7f553f0f5db8215898a449467f7b6f1"
 metafile = true
