@@ -758,11 +758,11 @@ file = "servers.dat"
 hash = "68049a307efa27a19765bfeb47ed0b8629ba180e9fe0b02f390be5a373af39aa"
 
 [[files]]
-file = "world/datapacks/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "779d9829cb02940d5af2725cf11c87f606098a3b8bae3e754cd5587e67552700"
+file = "world/datapacks/0_allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "7152955468c8002707f903b97119b26e4e1efc933e9ccf0ff20bf6e9ea030d89"
 metafile = true
 
 [[files]]
-file = "world/datapacks/conquest-datapack.pw.toml"
-hash = "39608f03a783f41bc66b266706ee87b3817df906926950f8f733124510628347"
+file = "world/datapacks/9_cobblemon-conquest-datapack.pw.toml"
+hash = "80386675d6d903ecd046cf022fcef6077d874e7cfa8df7866f86e4f6b8d2f217"
 metafile = true
