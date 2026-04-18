@@ -3,6 +3,6 @@ filename = "conquest_mod_server.jar"
 side = "server"
 
 [download]
-url = "https://github.com/cobblemon-conquest/conquest-mod-server/releases/download/v1.0.3/conquest_mod_server-fabric-1.0.3.jar"
+url = "https://github.com/cobblemon-conquest/conquest-mod-server/releases/download/v1.0.4/conquest_mod_server-fabric-1.0.4.jar"
 hash-format = "sha256"
-hash = "1308c7eacb23f7665e348b967ce3ef87207d375d7097a703b520cb6558bba9e2"
+hash = "9da1c1cf72b177eb23a4386abec0e137ab7521a583a66c1bbb6e7167547d5565"
