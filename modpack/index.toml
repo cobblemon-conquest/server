@@ -77,6 +77,14 @@ file = "config/timeoutout.json"
 hash = "7000ec625cb1ae9d390084f014a3c5d554566e3aabb4f37236efe266d7475ce8"
 
 [[files]]
+file = "config/undergroundmining/loot.json"
+hash = "ae1be86798c21e4848d8edc63d079330d3176f498777cbb1af15720ae77f4508"
+
+[[files]]
+file = "config/undergroundmining/settings.json"
+hash = "6d76be7fe387bbe9c2113eaa81a97afede608caf2602682c064e756807955b97"
+
+[[files]]
 file = "config/xaero/lib/client.cfg"
 hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
 
