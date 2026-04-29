@@ -17,6 +17,10 @@ file = "config/cobbledollars/common.json"
 hash = "55b7706fb2565250f6a5b4c656aae8e6bf4562f69ca89383c5694e42df623862"
 
 [[files]]
+file = "config/cobblemon_smartphone.json"
+hash = "abe42253a55de59c9e05c390d22f6893c34132f085c39d683c4adcda41396dc5"
+
+[[files]]
 file = "config/cobblemonalphas/config.json"
 hash = "1146c32bfb635eced7b0eac1362f707b16d3daa6ba683bf5b775e947b558aec6"
 
@@ -363,6 +367,11 @@ hash = "9ad38f6af18aa40e336f51314f6262cd0a8f3b6e2864f0216c5815efa71f4273"
 metafile = true
 
 [[files]]
+file = "mods/cobblesmartphone-pokedex.pw.toml"
+hash = "b8f64f5bad16b0e48568bad2ba5ae24d31fee8aa22af60ab8fa3141945c08ef5"
+metafile = true
+
+[[files]]
 file = "mods/cobblespawners.pw.toml"
 hash = "8a90be42e6f30827942b3aaa9632c4a3f0f262194ad56389227ac57a9c2edf0e"
 metafile = true
@@ -589,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "31e7b4d016cbdf3f0abbb1ab202cf60e84ff8330ebbf6f043739128fb9133fad"
+hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]

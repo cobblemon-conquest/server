@@ -1,0 +1,13 @@
+name = "Cobblemon Smartphone Pokedex App"
+filename = "smartphone-pokedex-app-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TY1rcc5f/versions/ScuGuqhZ/smartphone-pokedex-app-1.0.0.jar"
+hash-format = "sha512"
+hash = "a3172fdc1a62d1a687d7baff59a436f77dca8c18670b92c919aed468f8b0d2cfaf45d6bdb3e790ee74cd6119d5c6736d34910dae466ae38b0505bfd42e081b0d"
+
+[update]
+[update.modrinth]
+mod-id = "TY1rcc5f"
+version = "ScuGuqhZ"
