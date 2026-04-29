@@ -18,7 +18,7 @@ hash = "55b7706fb2565250f6a5b4c656aae8e6bf4562f69ca89383c5694e42df623862"
 
 [[files]]
 file = "config/cobblemon_smartphone.json"
-hash = "abe42253a55de59c9e05c390d22f6893c34132f085c39d683c4adcda41396dc5"
+hash = "9bcd9461a58bce3694b661140f93aa6b94c4d8ecfe70b57000bb921656347330"
 
 [[files]]
 file = "config/cobblemonalphas/config.json"
@@ -784,6 +784,10 @@ metafile = true
 [[files]]
 file = "scripts/disable-shulker-boxes.zs"
 hash = "7fc02f56ef0330b50e58f03b1ea044abee53706aed2d3c50f3d1ede76bd0c4bd"
+
+[[files]]
+file = "scripts/disable-vinurl-recipe.zs"
+hash = "64093a339c7841b23b731348cbd3f8d9dec1059d16859467df3e6ee03e151893"
 
 [[files]]
 file = "servers.dat"
