@@ -1,0 +1,13 @@
+name = "My Totem Doll"
+filename = "MyTotemDoll-2.3.3+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ygYU16dG/versions/TyyMdG0O/MyTotemDoll-2.3.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "473e893910fcdebceb2548f69c84ca8dd3c309e937b8553beb53b206c850c4ecc89746298631d609436303229a2e9f7c4902c65c2826290e43d8d1f045478978"
+
+[update]
+[update.modrinth]
+mod-id = "ygYU16dG"
+version = "TyyMdG0O"
