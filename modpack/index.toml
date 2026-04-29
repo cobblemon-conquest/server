@@ -573,6 +573,11 @@ hash = "4d60813e8db9261205387f5c8cb96d0b372d3bbe78159369abbddab24f4b8788"
 metafile = true
 
 [[files]]
+file = "mods/my_totem_doll.pw.toml"
+hash = "2e0d453d1c2d8a2e78ed5e9eb84115eda1b8eede4929f06128a9e2f4b79022ba"
+metafile = true
+
+[[files]]
 file = "mods/navas-zamega.pw.toml"
 hash = "283b500122554b71dbdbf33033580c41f60b5d52b5eee911b98fb6fc634431db"
 metafile = true
