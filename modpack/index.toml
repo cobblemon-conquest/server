@@ -744,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-conquest-datapack.pw.toml"
-hash = "338f9aa30ba0bf5cce8ecbf31fc54b762b8db1c2af332b7c4c94142f57a3f105"
+hash = "72554d37f0a7fd9c8db48280a7bb4ad42467400f521ac2252014667414b0c2bc"
 metafile = true
 
 [[files]]
@@ -772,5 +772,5 @@ metafile = true
 
 [[files]]
 file = "world/datapacks/9_cobblemon-conquest-datapack.pw.toml"
-hash = "80386675d6d903ecd046cf022fcef6077d874e7cfa8df7866f86e4f6b8d2f217"
+hash = "754550fb3f09d7e78c58745d644ab7313c5e279c5cc696bfad1a10c9803b43c2"
 metafile = true
