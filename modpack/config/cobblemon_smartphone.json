@@ -1,12 +1,12 @@
 {
   "cooldowns": {
-    "healButton": 60,
+    "healButton": 120,
     "pcButton": 5,
     "cloudButton": 5,
     "waystoneButton": 5
   },
   "features": {
-    "enableHeal": false,
+    "enableHeal": true,
     "enablePC": true,
     "enableCloud": false,
     "enablePokenav": true,
