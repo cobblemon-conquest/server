@@ -9,6 +9,10 @@ file = "config/PastureLoot.json"
 hash = "bbd614a5bc5bccba5a4ee89353767d960ef792bbfc1af7a32607de12b5cc98a3"
 
 [[files]]
+file = "config/VinURLConfig.json5"
+hash = "2e13e1f1196cd97de2a848c9f0a34c91599a001e8e08b6dc794575a46c88b00b"
+
+[[files]]
 file = "config/cobbledollars/bank.json"
 hash = "dd63d10afb7118d3ab9e72ea0c4e755e8439a39b8afc77b99365a9b4ca8bb74b"
 
@@ -393,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/conquest-mod.pw.toml"
-hash = "431490f8dc3330bdacc456372c2abb2d04f480a59a3ee6feb96f48d65d9d7a73"
+hash = "d50f3d1a4019be5896ca77701662fc0271e893baa79d17abdec04ef9ce801020"
 metafile = true
 
 [[files]]
@@ -622,6 +626,10 @@ hash = "1c13286be4f09e25c93ef1640335a951df1dd0f155f6d7a173dfc284831e09c3"
 metafile = true
 
 [[files]]
+file = "mods/polypokemon-1.7.3-1.0.0.jar"
+hash = "5e1ed698cee313bbdc33e7c084b2d9d6b2f56fbec976f35fe3ac62521b23cdb4"
+
+[[files]]
 file = "mods/rctapi.pw.toml"
 hash = "18fa6f64154a77fd1c02db2488b504ae0b38132a0b425f75be1c092b5728c31b"
 metafile = true
@@ -784,10 +792,6 @@ metafile = true
 [[files]]
 file = "scripts/disable-shulker-boxes.zs"
 hash = "7fc02f56ef0330b50e58f03b1ea044abee53706aed2d3c50f3d1ede76bd0c4bd"
-
-[[files]]
-file = "scripts/disable-vinurl-recipe.zs"
-hash = "64093a339c7841b23b731348cbd3f8d9dec1059d16859467df3e6ee03e151893"
 
 [[files]]
 file = "servers.dat"
