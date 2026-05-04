@@ -3,7 +3,8 @@
 	"updatesOnStartup": true,
 	"showDescription": true,
 	"urlWhitelist": [
-		"https://www.youtube.com"
+		"https://www.youtube.com",
+		"https://youtu.be"
 	],
 	"audioBitrate": "HIGH"
 }

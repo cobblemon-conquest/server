@@ -74,6 +74,7 @@ enable-player-address-logging = true
 # represents the IP address of the server to connect to.
 limbo = "cobblemon-conquest-limbo-service:25565"
 main-server = "cobblemon-conquest-server-service:25565"
+build-server = "cobblemon-conquest-build-service:25565"
 
 # In what order we should try servers when a player logs in or is kicked from a server.
 try = [

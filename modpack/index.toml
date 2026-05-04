@@ -10,7 +10,7 @@ hash = "bbd614a5bc5bccba5a4ee89353767d960ef792bbfc1af7a32607de12b5cc98a3"
 
 [[files]]
 file = "config/VinURLConfig.json5"
-hash = "2e13e1f1196cd97de2a848c9f0a34c91599a001e8e08b6dc794575a46c88b00b"
+hash = "c61fba3bc0f4e797219738865e353f4ca0c731e86d8226b1b950654a37b438ce"
 
 [[files]]
 file = "config/cobbledollars/bank.json"
