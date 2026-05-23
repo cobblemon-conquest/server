@@ -771,12 +771,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/book-dex-resourcepack.pw.toml"
-hash = "73817469e16cd59c7a5390926ff52ac2b4e2f4025341df4188ffde1e32b204e6"
+hash = "2cb727e89986deecc68635b6fd168484ef54b8e9b8f961b958668c1dc83c809b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-conquest-datapack.pw.toml"
-hash = "72554d37f0a7fd9c8db48280a7bb4ad42467400f521ac2252014667414b0c2bc"
+hash = "9c42db7c8a60a0d9a3bab856b65dfe8bc393be42ebdddc3974eff939cc86be2e"
 metafile = true
 
 [[files]]
@@ -804,5 +804,5 @@ metafile = true
 
 [[files]]
 file = "world/datapacks/9_cobblemon-conquest-datapack.pw.toml"
-hash = "754550fb3f09d7e78c58745d644ab7313c5e279c5cc696bfad1a10c9803b43c2"
+hash = "972c9da49c7db42327f30822808764ac4e7be1bcf80a60fb7381982a9e1ae3b7"
 metafile = true
