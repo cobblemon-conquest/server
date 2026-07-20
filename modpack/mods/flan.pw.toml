@@ -1,13 +1,13 @@
 name = "Flan"
-filename = "flan-1.21.1-1.12.5-fabric.jar"
+filename = "flan-1.21.1-1.12.7-fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Si383TIH/versions/b5UMLaHO/flan-1.21.1-1.12.5-fabric.jar"
+url = "https://cdn.modrinth.com/data/Si383TIH/versions/Dozjx0xr/flan-1.21.1-1.12.7-fabric.jar"
 hash-format = "sha512"
-hash = "21eeae558346172f02c4569c39e73713305e637555f163cf875f3cb84ee4688cb0a2d92cc9c767c96c70405f7b788911bc55f42f44eedae57f84b04d16129052"
+hash = "0124534ac3a578fa77a7a63b34564a87808a4bbb8a7e8eb2514085544031272613b6b4e2217e56314c043bbfc0c51939dad0bdfd8ce614904e0888a504f6ce50"
 
 [update]
 [update.modrinth]
 mod-id = "Si383TIH"
-version = "b5UMLaHO"
+version = "Dozjx0xr"

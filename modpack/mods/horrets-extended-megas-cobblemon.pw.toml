@@ -1,0 +1,13 @@
+name = "Horret's Extended Megas"
+filename = "horretsextendedmega-fabric-1.7.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9iSTkx1V/versions/8lAJczTb/horretsextendedmega-fabric-1.7.6.jar"
+hash-format = "sha512"
+hash = "0d7b012c44495fca7167bdc8df5261125d36451dbd223cf80b1a65179ede357ab630ca73594da7031a81f0a033a8c8953a8b03315db5cdea4a5a47457aefdbd1"
+
+[update]
+[update.modrinth]
+mod-id = "9iSTkx1V"
+version = "8lAJczTb"

@@ -1,0 +1,13 @@
+name = "Better Cobblemon Spectation"
+filename = "BetterCobblemonSpectation-2.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MpFeVYoR/versions/KUJY2P7J/BetterCobblemonSpectation-2.0.1.jar"
+hash-format = "sha512"
+hash = "0e40a1eb91662b66b56dfd9de05619da653f2dc77df5021d0b44d09d206017391270861e5cf996a7d8f7871a9779276e9e0710db371ec24a816d738568c26a4c"
+
+[update]
+[update.modrinth]
+mod-id = "MpFeVYoR"
+version = "KUJY2P7J"

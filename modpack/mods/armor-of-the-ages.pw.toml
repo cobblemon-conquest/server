@@ -1,0 +1,13 @@
+name = "Armor of the Ages"
+filename = "armoroftheages-fabric-1.21.1-1.5.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vEgtiJIY/versions/mz3psYSO/armoroftheages-fabric-1.21.1-1.5.10.jar"
+hash-format = "sha512"
+hash = "96bb478c98e1a7b57e343a8a04ee2438ff818153ba4d25a0e6bfff75400d96a961aac639da396dfb103e12633e50b92d3d2ddecbd07281d5d562d3ca2be51821"
+
+[update]
+[update.modrinth]
+mod-id = "vEgtiJIY"
+version = "mz3psYSO"
