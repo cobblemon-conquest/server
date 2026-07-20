@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms-fabric-placeholders.pw.toml"
-hash = "b84a80c04bff01a423b26a2fcbe6cc1efbdf3d789831a37c20df2bd56f61dd92"
+hash = "9890eaee596080bb3a23b4ced1189ef05e5118719e55d439efe3c2654f7f6e7d"
 metafile = true
 
 [[files]]
