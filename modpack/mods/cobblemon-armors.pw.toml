@@ -1,13 +1,13 @@
 name = "Cobblemon Armors"
-filename = "cobblemon-armors-1.6.0+1.7.3.jar"
+filename = "cobblemon-armors-1.6.0+1.7.3-build.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WwDbGW1s/versions/HQMFXhaZ/cobblemon-armors-1.6.0%2B1.7.3.jar"
+url = "https://cdn.modrinth.com/data/WwDbGW1s/versions/dd3jT3wC/cobblemon-armors-1.6.0%2B1.7.3-build.2.jar"
 hash-format = "sha512"
-hash = "c77c223e8e85d446e646c619f006915e4b41ca42f6fd782bb9b90c25b1b624d908734ccf0579ba6a44ca2a4740feba685a1e4d2010b6d4a4a1a7db18c1490bcc"
+hash = "53f9c9e9fa7b1cfbee464335b06b32b6d8c6ed105f426675265d0b0bf4db43c28cc8b0814a33a21d0f70c5ed6dc5d67f40bd8181824b34b0524175d58630c23c"
 
 [update]
 [update.modrinth]
 mod-id = "WwDbGW1s"
-version = "HQMFXhaZ"
+version = "dd3jT3wC"
