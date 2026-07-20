@@ -336,6 +336,11 @@ hash = "5d00637a23df408f908b466202ffca7d255c8d1bd293b9a6ba9a002a691c5fbf"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-secret-base-trainer.pw.toml"
+hash = "2f3966e8fd80a557078c91da330166f24f94a163297398812c4903123a5d301c"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-size-variations.pw.toml"
 hash = "faa511b494c47bd9ade4ac0132a5123c0779991d70e47b17e2eacaa4f79b6c19"
 metafile = true
