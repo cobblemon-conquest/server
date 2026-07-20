@@ -875,6 +875,10 @@ hash = "a539d1fd82df90f78b93acb833ae0c472798a792b2c14552094c62d06fe9ae3e"
 metafile = true
 
 [[files]]
+file = "scripts/disable-secret-base-clone.zs"
+hash = "97c54c37f76628a624ed09f01e81da3c9944d071903927db61c3ad82c7f3ffa9"
+
+[[files]]
 file = "scripts/disable-shulker-boxes.zs"
 hash = "7fc02f56ef0330b50e58f03b1ea044abee53706aed2d3c50f3d1ede76bd0c4bd"
 
