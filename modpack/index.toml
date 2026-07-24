@@ -62,7 +62,7 @@ hash = "ec7d291f1796fc19273a0dd271d47890f8734da2e763f00f34932a96d9ade74d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "2862d775d17d48bc70bb843b8b312c47fed83684b563885e4589d2464f0c4ddc"
+hash = "a2cf5f0e13ff04afed86041ddedbe742f43a9e771b6b44b56a3abbf76d05ca16"
 
 [[files]]
 file = "config/spawn_notification.json"
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "dac3735111150e6dee94f69b03ccf6c8f65e2c975421c4f730d9afc70a3f4154"
+hash = "6a1f474d480d45616c91bba8ce8a5dcf468835be8f4f33625c13821125645c6c"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
-hash = "7c411e9a5554ac54cbe074151d3ff51af33bad996f2fcee7b6862b08b41ba841"
+hash = "2ee2a1d9403c33c93b7be6d4625323ae81c5e7a662740cd07d31980895a327f0"
 metafile = true
 
 [[files]]
@@ -418,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/cobbreeding.pw.toml"
 hash = "bf5eed33e89ba5dd2c9fc5a0a462ca8dd32ae19a5e0643ffae6da15c54378f6d"
+metafile = true
+
+[[files]]
+file = "mods/complete-cobblemon-collection-w-legendary-spawns.pw.toml"
+hash = "781f4451280b97332d818c14705626521a3dcd30c9c2cd3ea000be61d53de1dd"
 metafile = true
 
 [[files]]
@@ -652,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/navas-zamega.pw.toml"
-hash = "283b500122554b71dbdbf33033580c41f60b5d52b5eee911b98fb6fc634431db"
+hash = "8f87e98eaa241a61718c987004cdb86981552549cc9d38d1d11b4659f89eab97"
 metafile = true
 
 [[files]]
@@ -851,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "0394f05da4776a47705e16e90408fdcdc7a7a5d9419aeb19b8fa73cbe188c7bd"
+hash = "c7d8a8fae46ea53e363413ce1ed65114e72e0cba36fc186e58ba7325107e4e3a"
 metafile = true
 
 [[files]]
@@ -865,8 +870,18 @@ hash = "9c42db7c8a60a0d9a3bab856b65dfe8bc393be42ebdddc3974eff939cc86be2e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cobblemotion.pw.toml"
+hash = "4b592a87dc57add8c8f3fd7a8e7b2b434fae9f2820497c93a724229c32d107c3"
+metafile = true
+
+[[files]]
 file = "resourcepacks/e19-minimap-icons.pw.toml"
 hash = "1b537fa61ab7b3e98e7218c8f125b48093ff6ffe92a54009aa3a0dd200df06d2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/extra-paradox-mons.pw.toml"
+hash = "5791fee42105e0ccd445418df549cd917301a5bee25bc659eb25c26ac195ad71"
 metafile = true
 
 [[files]]
@@ -889,6 +904,21 @@ hash = "68049a307efa27a19765bfeb47ed0b8629ba180e9fe0b02f390be5a373af39aa"
 [[files]]
 file = "world/datapacks/0_allthemons-x-mega-showdown-legacy.pw.toml"
 hash = "6e6394fc27081921ecfccbb767cf6757a1de28bf4f87a6673dca6b1b8fe9a636"
+metafile = true
+
+[[files]]
+file = "world/datapacks/1_cobblemotion.pw.toml"
+hash = "c9631b6683eb7972a1ffae58a5ac675c4e1fad9a15129baaf300a59a8f3e10d4"
+metafile = true
+
+[[files]]
+file = "world/datapacks/2_extra-paradox-mons.pw.toml"
+hash = "f6ff0711359e2626ba8901c38e61b58dd23d91b9fe8ec675a88641b407da3e82"
+metafile = true
+
+[[files]]
+file = "world/datapacks/3_cobblemonraiddens-typedesigns.pw.toml"
+hash = "9a296835156a275329c7a6112e26da0c86168bea7775e60cbe9a6ddb8b6aa82e"
 metafile = true
 
 [[files]]

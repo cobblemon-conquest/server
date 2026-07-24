@@ -1,13 +1,13 @@
 name = "Cobblemon Raid Dens"
-filename = "cobblemonraiddens-fabric-0.11.3+1.21.1.jar"
+filename = "cobblemonraiddens-fabric-0.11.4+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GebWh45l/versions/Lecb595b/cobblemonraiddens-fabric-0.11.3%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/GebWh45l/versions/GfRMKK5M/cobblemonraiddens-fabric-0.11.4%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "e7b9b50f05775456dbded7ecce950daa24ac3e9bdb37d8dec33c64940d0fef710b6042c6a8adc461aa2b37f5393b3c5b805cd2804a9136964e2e31ab51e2e64a"
+hash = "111bb90475fe138bc6d91053dd7934349dcba518d8be93bd0f61141d0be0da65932eaf35d710a05018ec005fece6736a548295938c5297946e63f883afca2bee"
 
 [update]
 [update.modrinth]
 mod-id = "GebWh45l"
-version = "Lecb595b"
+version = "GfRMKK5M"
