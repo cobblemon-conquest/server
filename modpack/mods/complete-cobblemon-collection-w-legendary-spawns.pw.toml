@@ -1,0 +1,13 @@
+name = "Complete Cobblemon Collection w Legendary Spawns"
+filename = "complete-cobblemon-collection-w-legendary-spawns-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/578VPQc9/versions/BwdlYgEI/complete-cobblemon-collection-w-legendary-spawns-2.0.1.jar"
+hash-format = "sha512"
+hash = "caf5ad4263e7a753527a719100d1c1358386fc288c9966d183223596642caa87844881973c32eaf20f17836e4335bac7b0853bfbe2e00305515098ef39a3294b"
+
+[update]
+[update.modrinth]
+mod-id = "578VPQc9"
+version = "BwdlYgEI"
