@@ -907,9 +907,8 @@ hash = "f6ff0711359e2626ba8901c38e61b58dd23d91b9fe8ec675a88641b407da3e82"
 metafile = true
 
 [[files]]
-file = "world/datapacks/3_cobblemonraiddens-typedesigns.pw.toml"
-hash = "9a296835156a275329c7a6112e26da0c86168bea7775e60cbe9a6ddb8b6aa82e"
-metafile = true
+file = "world/datapacks/3_cobblemon-raid-dens-designs_0.2.zip"
+hash = "1d3a8d615e2a0edb6c8c783c2bdceb1beeabc64dbabce0c6a5e957336fc4ce51"
 
 [[files]]
 file = "world/datapacks/9_cobblemon-conquest-datapack.pw.toml"
