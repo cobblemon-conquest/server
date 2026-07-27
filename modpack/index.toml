@@ -870,11 +870,6 @@ hash = "9c42db7c8a60a0d9a3bab856b65dfe8bc393be42ebdddc3974eff939cc86be2e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/cobblemotion.pw.toml"
-hash = "4b592a87dc57add8c8f3fd7a8e7b2b434fae9f2820497c93a724229c32d107c3"
-metafile = true
-
-[[files]]
 file = "resourcepacks/e19-minimap-icons.pw.toml"
 hash = "1b537fa61ab7b3e98e7218c8f125b48093ff6ffe92a54009aa3a0dd200df06d2"
 metafile = true
@@ -904,11 +899,6 @@ hash = "68049a307efa27a19765bfeb47ed0b8629ba180e9fe0b02f390be5a373af39aa"
 [[files]]
 file = "world/datapacks/0_allthemons-x-mega-showdown-legacy.pw.toml"
 hash = "6e6394fc27081921ecfccbb767cf6757a1de28bf4f87a6673dca6b1b8fe9a636"
-metafile = true
-
-[[files]]
-file = "world/datapacks/1_cobblemotion.pw.toml"
-hash = "c9631b6683eb7972a1ffae58a5ac675c4e1fad9a15129baaf300a59a8f3e10d4"
 metafile = true
 
 [[files]]
